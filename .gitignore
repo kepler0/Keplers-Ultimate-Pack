@@ -4,3 +4,5 @@ crash-reports/
 saves/
 IDConflicts.txt
 stats/
+*.pak
+hats/
