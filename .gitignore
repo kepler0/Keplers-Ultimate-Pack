@@ -6,3 +6,7 @@ IDConflicts.txt
 stats/
 *.pak
 hats/
+dumps
+shaderpacks
+openperipheral
+optionsshaders.txt
