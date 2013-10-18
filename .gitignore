@@ -8,3 +8,5 @@ output-client.log
 output-server.log
 saves/
 stats/
+assets/
+crash-reports/
