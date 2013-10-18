@@ -1,0 +1,10 @@
+*.log*
+config/
+mods/1.6.4/CodeChickenLib-universal-1.6.4-1.0.0.36.jar
+mods/VoxelMods/voxelmap.properties
+mods/ic2/ejml-0.23.jar
+options.txt
+output-client.log
+output-server.log
+saves/
+stats/
