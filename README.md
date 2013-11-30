@@ -1,4 +1,4 @@
-Kite
+Kepler's Ultimate Pack
 ====
 
-Kepler's Lite Modpack. Based off of ForgeCraft Lite.
+Kepler's Ultimate Pack. The largest collection of mod's working together you've ever seen. Based off Kite.
